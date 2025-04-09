@@ -1,7 +1,7 @@
-from time import *
+
 from faker import Faker
 from tkinter import *
-from tkinter import ttk
+
 
 fake = Faker('en_US')
 def generate_paragraph():
