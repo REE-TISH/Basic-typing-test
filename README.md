@@ -1,3 +1,3 @@
 # Basic-typing-test
-Used faker module to generate random text and write it and calculate time using time module and calculate the wpm and accuracy
-Very basic line of codes are used 
+A fun and lightweight typing speed tester built with Python, Tkinter, and Faker.
+It generates random text using the Faker library and lets you test your Words Per Minute (WPM) and typing accuracy in real time. Perfect for daily typing practice or just a quick challenge! 
